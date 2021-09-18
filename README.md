@@ -1,6 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msmmd" alt="MsMmD" /> </p>
+<a href="https://replit.com/@MSMMD"><img src="https://img.shields.io/static/v1?label=Replit&message=MsMmD&color=blue&style=flat"></a>
+<a href="https://replit.com/@MSMMD"><img src="https://img.shields.io/static/v1?label=Chat&message=site&color=yellow&style=flat"></a>
+<img src="https://img.shields.io/github/watchers/msmmd/msmmd?color=orange&label=Views">
+<a href="https://discord.com/users/714960683967447050"><img src="https://img.shields.io/static/v1?label=Discord&message=MsMmD&color=4402dd&style=flat&logo=discord"></a>
 
 Im Mateus, but you can call me **MsMmD**, I'm 14 years old and I live in Brazil! I love developing games and websites, besides learning new things.
 

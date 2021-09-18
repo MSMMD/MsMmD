@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<!--
-**MSMMD/MsMmD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=droppicode" alt="Droppicode" /> </p>
 
-Here are some ideas to get you started:
+Im Mateus, but you can call me **MsMmD**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **I’m currently learning** Node.js and Socket.io.
+
+- 📫 **How to reach me:** __MsMmD#8201__ on Discord.
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=msmmd&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt=""/> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=msmmd&layout=compact&theme=radical&hide_border=true&v=2" alt=""/>
+</p>

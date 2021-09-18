@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msmmd" alt="MsMmD" /> </p>
 
-Im Mateus, but you can call me **MsMmD**, I'm 14 years old and I live in Brazil 🇧🇷! I love developing games and websites, besides learning new things.
+Im Mateus, but you can call me **MsMmD**, I'm 14 years old and I live in Brazil :🇧🇷:! I love developing games and websites, besides learning new things.
 
 - 🌱 **I’m currently learning** Node.js and Socket.io.
 

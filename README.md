@@ -4,11 +4,11 @@
 <img src="https://img.shields.io/github/watchers/msmmd/msmmd?color=orange&label=Views">
 <a href="https://discord.com/users/714960683967447050"><img src="https://img.shields.io/static/v1?label=Discord&message=MsMmD&color=4402dd&style=flat&logo=discord"></a>
 
-Im Mateus, but you can call me **MsMmD**, I'm 14 years old and I live in Brazil🇧🇷! I love developing games and websites, besides learning new things.
+<p>Im Mateus, but you can call me <b>MsMmD</b>, I'm 14 years old and I live in Brazil🇧🇷! I love developing games and websites, besides learning new things.</p>
 
-- 🌱 **I’m currently learning** Node.js and Socket.io.
+<p>- 🌱 <b>I’m currently learning</b> Node.js and Socket.io.<p>
 
-- 📫 **How to reach me:** __MsMmD#8201__ on Discord.
+<p>- 📫 <b>How to reach me:</b> <i>MsMmD#8201</i> on Discord.</p>
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=msmmd&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt=""/>
 </p>

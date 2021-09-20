@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center"><img src="https://www.msmmd.repl.co/src/msmmd/profile-small.jpg" width="200px"><br><b>MsMmD</b></h1>
 
 <div align="center">
   <a href="https://replit.com/@MSMMD"><img src="https://img.shields.io/static/v1?label=Replit&message=MsMmD&color=blue&style=flat&logo=replit&logoColor=white"></a>
@@ -12,6 +12,3 @@
 <p>- 🌱 <b>I’m currently learning</b> Node.js and Socket.io.<p>
 
 <p>- 📫 <b>How to reach me:</b> <i>MsMmD#8201</i> on Discord.</p>
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=msmmd&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt=""/>
-</p>

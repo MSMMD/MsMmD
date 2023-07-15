@@ -9,6 +9,6 @@
 <br>
 <p>Im Mateus, but you can call me <b>MsMmD</b>, I'm 14 years old and I live in Brazil🇧🇷! I love developing games and websites, besides learning new things.</p>
 
-<p>- 🌱 <b>I’m currently learning</b> Node.js and Socket.io.<p>
+<p>- 🌱 <b>I’m currently learning</b> Nothing (vacantion)<p>
 
 <p>- 📫 <b>How to reach me:</b> <i>MsMmD#8201</i> on Discord.</p>

@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://linux.ime.usp.br/~msmmd/public/src/msmmd/profile.png" width="200px"><br><b>MsMmD</b></h1>
+<h1 align="center"><img src="./profile.png" width="200px"><br><b>MsMmD</b></h1>
 
 <div align="center">
   <a href="https://github.com/MSMMD"><img src="https://img.shields.io/github/stars/MSMMD?label=Stars&logo=github&logoColor=white&color=dddd00"></a>

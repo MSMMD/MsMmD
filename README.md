@@ -8,6 +8,6 @@
 <br>
 <p>Hi, I'm Mateus, aka <b>MsMmD</b>! I'm a 19-year-old developer from Brasil🇧🇷 with a passion for building games, websites, and exploring mathematics.</p>
 
-<p>- 🌱 <b>I’m currently learning</b> Computer Science<p>
+<p>- 🌱 <b>I’m currently learning</b> Computer Science at <a href="https://www.ime.usp.br/">IME-USP</a><p>
 
 <p>- 📫 <b>How to reach me:</b> <i>MsMmD#8201</i> on Discord.</p>

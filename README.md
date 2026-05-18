@@ -6,7 +6,7 @@
   <a href="https://discord.com/users/714960683967447050"><img src="https://img.shields.io/static/v1?label=Discord&message=MsMmD&color=4402dd&style=flat&logo=discord&logoColor=white"></a>
 <div>
 <br>
-<p >I'm Mateus, but you can call me <b>MsMmD</b>, I'm <img src="https://svgs.msmmd.repl.co/idade"> years old and I live in Brazil🇧🇷! I love developing games, websites and math stuff too.</p>
+<p>Hi, I'm Mateus, aka <b>MsMmD</b>! I'm a 19-year-old developer from Brasil🇧🇷 with a passion for building games, websites, and exploring mathematics.</p>
 
 <p>- 🌱 <b>I’m currently learning</b> Computer Science<p>
 
